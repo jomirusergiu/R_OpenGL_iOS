@@ -35,8 +35,6 @@
     GLuint _vertexBuffer;
     GLuint _texture0ID;
     GLuint _texture1ID;
-    
-    
 }
 
 @property (strong, nonatomic) GLKBaseEffect *baseEffect;
